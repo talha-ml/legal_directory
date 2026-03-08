@@ -46,10 +46,21 @@ A professional, feature-rich Flutter application designed for legal practitioner
    ```
 
 ## 📱 Screenshots
+<img width="1920" height="1080" alt="view screen" src="https://github.com/user-attachments/assets/4badb64f-e59a-4a84-b644-4f63531de45d" />
 
-| Home Screen | Add Record | OCR Scanning |
-| :---: | :---: | :---: |
-| ![Home](https://via.placeholder.com/200x400?text=Home+Screen) | ![Add](https://via.placeholder.com/200x400?text=Add+Record) | ![OCR](https://via.placeholder.com/200x400?text=OCR+Scan) |
+<img width="1920" height="1080" alt="add operation" src="https://github.com/user-attachments/assets/88a49505-3928-4af1-aa98-a69311f93cf7" />
+
+<img width="1920" height="1080" alt="update operation" src="https://github.com/user-attachments/assets/0b70fbf5-981a-4c58-b121-e74a0d9d2a5b" />
+
+<img width="1920" height="1080" alt="delete operation" src="https://github.com/user-attachments/assets/63c1fb20-5041-4233-8e7f-b512530fd62d" />
+
+<img width="1920" height="1080" alt="delete confirmation" src="https://github.com/user-attachments/assets/dd83352e-6dda-4430-91bb-b80a4a832257" />
+
+<img width="1920" height="1080" alt="pdf view" src="https://github.com/user-attachments/assets/5cefa115-33f2-4c36-9686-9d6758dabb66" />
+
+<img width="1920" height="1080" alt="search view" src="https://github.com/user-attachments/assets/648b5e7f-c6ae-438c-86ec-dd58185925f5" />
+
+<img width="1920" height="1080" alt="select date to reminder" src="https://github.com/user-attachments/assets/b66a6323-013b-48ee-b94f-fce45c6c3285" />
 
 ## 📄 License
 
