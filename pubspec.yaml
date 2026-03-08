@@ -1,0 +1,38 @@
+name: legal_directory
+description: "A professional directory for legal records."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+  # Core Requirements
+  sqflite: ^2.3.0
+  path: ^1.8.3
+  image_picker: ^1.0.7
+
+  # New UI/UX & Feature Upgrades
+  google_fonts: ^8.0.2      # Khoobsurat fonts ke liye
+  url_launcher: ^6.2.4      # Direct call/email feature ke liye
+  flutter_animate: ^4.5.2
+  # PDF Generation ke liye
+  pdf: ^3.11.0
+  printing: ^5.12.0
+  google_mlkit_text_recognition: ^0.14.0
+  # Notifications aur Time handling ke liye
+  flutter_local_notifications: ^17.0.0
+  timezone: ^0.9.3 # Smooth animations
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
